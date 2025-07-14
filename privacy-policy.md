@@ -1,4 +1,4 @@
-Effective Date: 12.07.2025
+Effective Date: 14.07.2025
 
 This application is developed solely for accessing and analyzing public advertising data through Meta's Ads Library API.
 
